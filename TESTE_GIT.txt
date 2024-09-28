@@ -1,5 +1,6 @@
-TESTE 
-
-1. GIT
-2. CRIANDO O GIT
-3. COMMIT
+1.TESTE 
+2.GIT
+3.CRIANDO O GI
+4.teste linha
+5.teste para alteração
+6.linha nova
