@@ -1,6 +1,0 @@
-1.TESTE 
-2.GIT
-3.CRIANDO O GI
-4.teste linha
-5.teste para alteração
-6.linha nova
